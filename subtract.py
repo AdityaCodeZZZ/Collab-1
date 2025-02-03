@@ -1,4 +1,4 @@
 def subtract(a, b):
-    return a + b
+    return a - b
 
-subtract(10, 15)
+print(subtract(15, 10))

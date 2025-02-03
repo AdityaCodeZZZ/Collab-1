@@ -1,1 +1,4 @@
-6+9
+def add(a, b):
+    return a + b
+
+print(add(10 ,15))
